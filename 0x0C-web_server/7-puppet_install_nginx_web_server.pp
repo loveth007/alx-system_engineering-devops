@@ -1,4 +1,4 @@
-nstall Nginx web server (w/ Puppet)
+# Puppet manifest to install nginx
 package { 'nginx':
   ensure => installed,
 }
@@ -18,3 +18,4 @@ service { 'nginx':
   ensure  => running,
   require => Package['nginx'],
 }
+

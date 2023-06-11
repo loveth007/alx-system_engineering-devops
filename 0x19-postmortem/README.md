@@ -1,6 +1,8 @@
 
+![image](https://github.com/loveth007/alx-system_engineering-devops/assets/113848577/0bb7b482-0def-474a-b5c9-1c59d894c916)
 
-
+![image](https://github.com/loveth007/alx-system_engineering-devops/assets/113848577/7df74cff-96b7-4962-968b-56e00d57c332)
+https://medium.com/@lovethokwudiri/issue-summary-from-12-00-am-to-8-oo-am-losam-company-experienced-an-outage-on-cloud-a-that-ff04faeec014
 
 Issue Summary
 From 12:00 AM to 8:OO AM, losam company experienced an outage on Cloud A that affected www.losamfoods.com due to a prescheduled reboot that resulted in failure. The points of failure are coming from the rebooting of the load balancer or cache server. The Security Team issued a maintenance update and a reboot notification to a major Cloud A server on JUNE 3, 2023 for a window of 5hours (12:00 to 5:00 AM). 
